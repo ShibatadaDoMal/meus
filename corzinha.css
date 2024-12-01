@@ -1,0 +1,36 @@
+body{
+    background: lightpink;
+}
+
+section{
+    text-align: center; 
+    border-radius: 20px;
+    margin: 0 auto;
+    background: lightcyan;
+    color: rgb(0, 204, 255)
+}
+
+.container {
+    position: relative;
+    height: 13px;
+    width: 119px;
+  }
+
+  #link{
+    position: absolute;
+    top: 300px;
+    left: 100px; 
+    color: lightcyan
+  }
+  
+  .links{
+    color: gold;
+  }
+
+sub-section{
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    font-size: large;
+}

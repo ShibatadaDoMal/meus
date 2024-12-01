@@ -1,0 +1,22 @@
+body{
+    background: lightpink;
+}
+
+section{
+    text-align: center; 
+    border-radius: 20px;
+    margin: 0 auto;
+    background: lightcyan;
+    color: rgb(0, 204, 255)
+}
+
+.linkz{
+    color: gold;
+  }
+
+  div{
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  }
